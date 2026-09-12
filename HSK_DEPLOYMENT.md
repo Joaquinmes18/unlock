@@ -1,5 +1,8 @@
 # HSKChain Testnet Unlock Deployment
 
+For exact source paths, proxy trust assumptions, runtime correspondence and
+read-only reproduction commands, see the [contract review guide](docs/HSK_CONTRACT_REVIEW.md).
+
 ## Network
 
 - Chain ID: **133**; Hardhat network: `hashkeyTestnet`
