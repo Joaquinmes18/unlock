@@ -32,8 +32,7 @@ export const hashkeyTestnet: NetworkConfig = {
     endpoint: '',
     graphId: '',
   },
-  // Required by NetworkConfig; populate only after deployment on chain 133.
-  unlockAddress: '',
+  unlockAddress: '0x56c7b33a4e06e79E7611787170DA26339E58b4Eb',
 }
 
 export default hashkeyTestnet
